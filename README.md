@@ -17,6 +17,7 @@ This repository provides a Python implementation of the Critical Path Method (CP
   - Generates a clear and organized project network diagram for better task dependency understanding.
 
 ## Dataset
+[Construction/Project Management Report Examples](https://www.kaggle.com/datasets/claytonmiller/construction-and-project-management-example-data?resource=download)
 
 The tool uses a dataset containing project tasks and their attributes. The key columns include:
 
